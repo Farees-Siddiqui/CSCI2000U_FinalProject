@@ -1,2 +1,2 @@
 # CSCI2000U_FinalProject
-Final project for CSCI 2000U made by Farees Siddiqui, and Jinhan Shi
+This repo contains our final project for the second year class `Scientific Data Analysis`. The project we chose to make is a program to figure out whether or not an individual is at risk of having a heart attack or any other cardiac incident. We used Exploratory Data Analysis to figure out the important risk factors for someone exhibiting cardiac symptoms.
